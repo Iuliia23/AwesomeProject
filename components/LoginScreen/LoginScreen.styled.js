@@ -97,7 +97,7 @@ export const styles = StyleSheet.create({
   loginBtn: {
     marginLeft: 'auto',
     marginRight: 'auto',
-    width: 188,
+    width: 300,
     height: 19,
   },
   loginText: {
